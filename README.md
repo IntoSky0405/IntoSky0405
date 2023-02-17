@@ -1,23 +1,8 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=IntoSky0405&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+![head.png](https://github.com/IntoSky0405/IntoSky0405/blob/main/resoures/head/ChineseNewYear.png?raw=true#pic_center)
+---
+### Project
+None
+### :star2: Stats
+![IntoSky's GitHub stats](https://github-readme-stats.vercel.app/api?username=IntoSky0405&show_icons=true&theme=tokyonight)
 
-### Hello World 👋
-
-- 💬: I'm IntoSky.
-A Minecraft modpacker.
-Just call me 'Sky'
-- :hammer: I'm making an modpack———Explore
-
-<!--
-**IntoSky0405/IntoSky0405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IntoSky0405&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
